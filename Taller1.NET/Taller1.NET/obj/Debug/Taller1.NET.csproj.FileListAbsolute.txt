@@ -1,0 +1,49 @@
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe.config
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.pdb
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csprojResolveAssemblyReference.cache
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Form1.resources
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Properties.Resources.resources
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.PanelRegistro.resources
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.GenerateResource.Cache
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.exe
+c:\users\juan diego\documents\visual studio 2017\Projects\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.pdb
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe.config
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.pdb
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Form1.resources
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Properties.Resources.resources
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.PanelRegistro.resources
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.exe
+C:\Users\hp\Desktop\ICESI\5 Semestre\Proyecto Integrador\Semana 3\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.pdb
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe.config
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.pdb
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Form1.resources
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.PanelRegistro.resources
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.exe
+C:\Users\USUARIO\Desktop\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.pdb
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe.config
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.exe
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\Taller1.NET.pdb
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Form1.resources
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.PanelRegistro.resources
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.exe
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.pdb
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\MapaIcesi.exe
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\GMap.NET.Core.dll
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\MapaIcesi.pdb
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\bin\Debug\MapaIcesi.exe.config
+C:\Users\USUARIO\source\repos\Taller1.NET\Taller1.NET\obj\Debug\Taller1.NET.csproj.CopyComplete

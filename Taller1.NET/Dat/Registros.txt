@@ -1,0 +1,10 @@
+Pedro_A001_Celular_domingo, 12 de agosto de 2018_9 am - 10 am_Beycker Alexis Ágredo Mosquera_Zona1
+Sandra_A002_Cortauñas_domingo, 12 de agosto de 2018_10 am - 11 am_Juan Diego Carvajal Castaño_Zona2
+Monica_A003_Computador_domingo, 12 de agosto de 2018_10 am - 11 am_Leonardo Franco Calpa_Zona3
+Julio_A004_Celular_domingo, 12 de agosto de 2018_1 pm - 2 pm_Juan Diego Carvajal Castaño_Zona2
+Mario_A005_Bolso_domingo, 12 de agosto de 2018_4 pm - 5 pm_Beycker Alexis Ágredo Mosquera_Zona3
+Jorge_A006_Libro_domingo, 12 de agosto de 2018_2 pm - 3 pm_Juan Diego Carvajal Castaño_Zona4
+Sophie_A007_Calculadora_domingo, 12 de agosto de 2018_3 pm - 4 pm_Leonardo Franco Calpa_Zona5
+Victor_A009_Computador_domingo, 12 de agosto de 2018_5 pm - 6 pm_Leonardo Franco Calpa_Zona9
+Andrea_A0087_celular_lunes, 13 de agosto de 2018_8 am - 9 am_Beycker Alexis Ágredo Mosquera_Zona7
+Matilda_A2321_Cuaderno_lunes, 13 de agosto de 2018_2 pm - 3 pm_Juan Diego Carvajal Castaño_Zona6
